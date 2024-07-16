@@ -55,6 +55,9 @@ Este curso abrange os fundamentos da lógica de programação e ensina como apli
   * Operadores aritméticos, lógicos e relacionais.
 
 * **Estruturas de Controle:**
+  * Condicionais (`if`, `else`, `switch`);
+  * Loops (`for`, `while`, `do-while`);
+  * Exemplos práticos de uso dessas estruturas.
 
 <!-- Informações -->
 ## &#8505; Informações
