@@ -24,6 +24,10 @@ Este curso abrange os fundamentos da lógica de programação e ensina como apli
   * Utilizar estruturas de decisão (`if`, `else`, `switch`);
   * Utilizar estruturas de repetição (`for`, `while`, `do-while`).
 
+* **Manipulação de Dados:**
+  * Trabalhar com variáveis, tipos de dados e operadores;
+  * Utilizar arrays e coleções para armazenar e manipular dados.
+
 <!-- Informações -->
 ## &#8505; Informações
 
