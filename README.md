@@ -54,6 +54,8 @@ Este curso abrange os fundamentos da lógica de programação e ensina como apli
   * Tipos de dados primitivos e compostos;
   * Operadores aritméticos, lógicos e relacionais.
 
+* **Estruturas de Controle:**
+
 <!-- Informações -->
 ## &#8505; Informações
 
