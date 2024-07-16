@@ -19,6 +19,8 @@ Este curso abrange os fundamentos da lógica de programação e ensina como apli
   * Criar algoritmos simples e complexos;
   * Traduzir algoritmos em código Dart.
 
+* **Estrutura de Controle:**
+
 <!-- Informações -->
 ## &#8505; Informações
 
