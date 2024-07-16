@@ -73,6 +73,10 @@ Este curso abrange os fundamentos da lógica de programação e ensina como apli
   * Leitura de dados do usuário;
   * Processamento e exibição de dados.
 
+* **Debugging e Testes:**
+  * Técnicas de debugging;
+  * Escrevendo testes unitários com Dart.
+
 <!-- Informações -->
 ## &#8505; Informações
 
