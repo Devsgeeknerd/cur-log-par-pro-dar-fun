@@ -49,6 +49,11 @@ Este curso abrange os fundamentos da lógica de programação e ensina como apli
   * Visão geral da lógica de programação;
   * Introdução à linguagem Dart e seu ambiente de desenvolvimento.
 
+* **Variáveis e Tipos de Dados:**
+  * Declaração e uso de variáveis;
+  * Tipos de dados primitivos e compostos;
+  * Operadores aritméticos, lógicos e relacionais.
+
 <!-- Informações -->
 ## &#8505; Informações
 
