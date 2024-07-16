@@ -4,7 +4,7 @@
 ***Conteúdo do Curso:***
 
 > [!NOTE]\
-> A descrição abaixo foi feito por para pesquisar e estudar alguns tópicos.
+> A descrição abaixo foi feito por mim para pesquisar e estudar mais afundo alguns tópicos.
 
 O curso "Lógica de Programação em Dart" é projetado para programadores iniciantes, intermediários e avançados que desejam aprender e/ou reforçar a lógica de programação usando a linguagem Dart.
 
