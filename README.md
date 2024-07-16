@@ -21,6 +21,8 @@ Este curso abrange os fundamentos da lógica de programação e ensina como apli
 
 * **Estrutura de Controle:**
   * Implementar estruturas de controle como condicionais e loops;
+  * Utilizar estruturas de decisão (`if`, `else`, `switch`);
+  * Utilizar estruturas de repetição (`for`, `while`, `do-while`).
 
 <!-- Informações -->
 ## &#8505; Informações
