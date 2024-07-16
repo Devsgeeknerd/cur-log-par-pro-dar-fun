@@ -9,6 +9,8 @@ Dart é uma linguagem de programação moderna e eficiente desenvolvida pelo Goo
 
 Este curso abrange os fundamentos da lógica de programação e ensina como aplicá-los utilizando Dart, proporcionando uma base sólida para o desenvolvimento de software.
 
+## Objetivo de Aprendizagem
+
 <!-- Informações -->
 ## &#8505; Informações
 
