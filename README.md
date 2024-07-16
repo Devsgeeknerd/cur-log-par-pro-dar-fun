@@ -11,6 +11,9 @@ Este curso abrange os fundamentos da lógica de programação e ensina como apli
 
 ## Objetivo de Aprendizagem
 
+* **Compreender os Conceitos Básicos de Programação:**
+  * Entender a importância da lógica de programação;
+
 <!-- Informações -->
 ## &#8505; Informações
 
