@@ -32,6 +32,10 @@ Este curso abrange os fundamentos da lógica de programação e ensina como apli
   * Definir e utilizar funções;
   * Entender a importância da modularização e reutilização de código.
 
+* **Entrada e Saída de Dados:**
+  * Manipular entrada e saída de dados;
+  * Utilizar Dart para interagir com o usuário e processar dados de entrada.
+
 <!-- Informações -->
 ## &#8505; Informações
 
