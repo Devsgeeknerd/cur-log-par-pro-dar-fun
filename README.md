@@ -77,6 +77,10 @@ Este curso abrange os fundamentos da lógica de programação e ensina como apli
   * Técnicas de debugging;
   * Escrevendo testes unitários com Dart.
 
+* **Projetos Práticos:**
+  * Desenvolvimento de pequenos projetos para aplicar os conceitos aprendidos;
+  * Estudos de caso e exemplos do mundo real.
+
 <!-- Informações -->
 ## &#8505; Informações
 
