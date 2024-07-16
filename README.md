@@ -16,6 +16,7 @@ Este curso abrange os fundamentos da lógica de programação e ensina como apli
   * Aprender a sintaxe e as características principais de Dart.
 
 * **Desenvolver Algoritmos:**
+  * Criar algoritmos simples e complexos;
 
 <!-- Informações -->
 ## &#8505; Informações
