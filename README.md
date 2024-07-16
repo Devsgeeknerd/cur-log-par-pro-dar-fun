@@ -1,6 +1,8 @@
 <!-- Título -->
 # Lógica Para Programação em Dart
 
+***Conteúdo do Curso:***
+
 <!-- Informações -->
 ## &#8505; Informações
 
