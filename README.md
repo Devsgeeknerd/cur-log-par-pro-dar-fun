@@ -13,6 +13,7 @@ Este curso abrange os fundamentos da lógica de programação e ensina como apli
 
 * **Compreender os Conceitos Básicos de Programação:**
   * Entender a importância da lógica de programação;
+  * Aprender a sintaxe e as características principais de Dart.
 
 <!-- Informações -->
 ## &#8505; Informações
