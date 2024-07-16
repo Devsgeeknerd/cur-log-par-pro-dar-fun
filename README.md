@@ -45,6 +45,10 @@ Este curso abrange os fundamentos da lógica de programação e ensina como apli
 
 ## Conteúdo Programático
 
+* **Introdução à Programação e Dart:**
+  * Visão geral da lógica de programação;
+  * Introdução à linguagem Dart e seu ambiente de desenvolvimento.
+
 <!-- Informações -->
 ## &#8505; Informações
 
