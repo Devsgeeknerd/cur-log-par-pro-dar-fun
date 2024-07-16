@@ -7,6 +7,8 @@ O curso "Lógica de Programação em Dart" é projetado para iniciantes e progra
 
 Dart é uma linguagem de programação moderna e eficiente desenvolvida pelo Google, amplamente utilizada para desenvolver aplicativos móveis, desktop, web e servidor.
 
+Este curso abrange os fundamentos da lógica de programação e ensina como aplicá-los utilizando Dart, proporcionando uma base sólida para o desenvolvimento de software.
+
 <!-- Informações -->
 ## &#8505; Informações
 
