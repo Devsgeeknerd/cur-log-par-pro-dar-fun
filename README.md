@@ -59,6 +59,11 @@ Este curso abrange os fundamentos da lógica de programação e ensina como apli
   * Loops (`for`, `while`, `do-while`);
   * Exemplos práticos de uso dessas estruturas.
 
+* **Coleções e Manipulação de Dados:**
+  * Arrays e listas;
+  * Mapas e sets;
+  * Métodos de manipulação de coleções.
+
 <!-- Informações -->
 ## &#8505; Informações
 
