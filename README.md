@@ -69,6 +69,10 @@ Este curso abrange os fundamentos da lógica de programação e ensina como apli
   * Funções com parâmetros e retorno;
   * Recurso e funções anônimas (lambdas).
 
+* **Entrada e Saída de Dados:**
+  * Leitura de dados do usuário;
+  * Processamento e exibição de dados.
+
 <!-- Informações -->
 ## &#8505; Informações
 
