@@ -28,6 +28,10 @@ Este curso abrange os fundamentos da lógica de programação e ensina como apli
   * Trabalhar com variáveis, tipos de dados e operadores;
   * Utilizar arrays e coleções para armazenar e manipular dados.
 
+* **Funções e Modularização:**
+  * Definir e utilizar funções;
+  * Entender a importância da modularização e reutilização de código.
+
 <!-- Informações -->
 ## &#8505; Informações
 
