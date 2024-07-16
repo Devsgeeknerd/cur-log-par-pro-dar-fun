@@ -43,6 +43,8 @@ Este curso abrange os fundamentos da lógica de programação e ensina como apli
   * Identificar e corrigir erros em programas Dart;
   * Escrever e executar testes para garantir e funcionalidade do código.
 
+## Conteúdo Programático
+
 <!-- Informações -->
 ## &#8505; Informações
 
