@@ -64,6 +64,11 @@ Este curso abrange os fundamentos da lógica de programação e ensina como apli
   * Mapas e sets;
   * Métodos de manipulação de coleções.
 
+* **Funções:**
+  * Definição e chamada de funções;
+  * Funções com parâmetros e retorno;
+  * Recurso e funções anônimas (lambdas).
+
 <!-- Informações -->
 ## &#8505; Informações
 
