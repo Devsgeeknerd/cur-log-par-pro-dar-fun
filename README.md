@@ -7,6 +7,7 @@
 * [ ] [Exercícios 1.](https://github.com/Devsgeeknerd/mod-exe-1-log-par-pro-dar-fun) &#128679;
 * [ ] [Comandos.](https://github.com/Devsgeeknerd/mod-com-log-par-pro-dar-fun) &#128679;
 * [ ] [Exercícios 2.](https://github.com/Devsgeeknerd/mod-exe-2-log-par-pro-dar-fun) &#128679;
+* [ ] [TCC 1.](https://github.com/Devsgeeknerd/mod-tcc-1-log-par-pro-dar-fun) &#128679;
 
 > [!NOTE]\
 > A descrição abaixo foi feito por mim para pesquisar e estudar mais afundo alguns tópicos.
