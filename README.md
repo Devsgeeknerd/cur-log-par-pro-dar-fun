@@ -10,6 +10,7 @@
 * [ ] [TCC 1.](https://github.com/Devsgeeknerd/mod-tcc-1-log-par-pro-dar-fun) &#128679;
 * [ ] [Variáveis.](https://github.com/Devsgeeknerd/mod-var-log-par-pro-dar-fun) &#128679;
 * [ ] [Exercícios 3.](https://github.com/Devsgeeknerd/mod-exe-3-log-par-pro-dar-fun) &#128679;
+* [ ] [TCC 2.](https://github.com/Devsgeeknerd/mod-tcc-2-log-par-pro-dar-fun) &#128679;
 * [ ] [Operadores e Expressões Matemáticas.](https://github.com/Devsgeeknerd/mod-ope-exp-mat-log-par-pro-dar-fun) &#128679;
 * [ ] [Exercícios 4.](https://github.com/Devsgeeknerd/mod-exe-4-log-par-pro-dar-fun) &#128679;
 
