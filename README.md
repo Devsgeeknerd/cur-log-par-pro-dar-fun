@@ -3,6 +3,9 @@
 
 ***Conteúdo do Curso:***
 
+* [ ] [Fundamentos.](https://github.com/Devsgeeknerd/mod-fun-log-par-pro-fun) &#128679;
+* [ ] []() &#128679;
+
 > [!NOTE]\
 > A descrição abaixo foi feito por mim para pesquisar e estudar mais afundo alguns tópicos.
 
