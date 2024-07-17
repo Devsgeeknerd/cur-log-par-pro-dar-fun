@@ -3,8 +3,8 @@
 
 ***Conteúdo do Curso:***
 
-* [ ] [Fundamentos.](https://github.com/Devsgeeknerd/mod-fun-log-par-pro-fun) &#128679;
-* [ ] []() &#128679;
+* [ ] [Fundamentos.](https://github.com/Devsgeeknerd/mod-fun-log-par-pro-dar-fun) &#128679;
+* [ ] [Exercícios 1.](https://github.com/Devsgeeknerd/mod-exe-1-log-par-pro-dar-fun) &#128679;
 
 > [!NOTE]\
 > A descrição abaixo foi feito por mim para pesquisar e estudar mais afundo alguns tópicos.
