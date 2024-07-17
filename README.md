@@ -14,6 +14,7 @@
 * [ ] [Operadores e Expressões Matemáticas.](https://github.com/Devsgeeknerd/mod-ope-exp-mat-log-par-pro-dar-fun) &#128679;
 * [ ] [Exercícios 4.](https://github.com/Devsgeeknerd/mod-exe-4-log-par-pro-dar-fun) &#128679;
 * [ ] [Ambiente de Desenvolvimento.](https://github.com/Devsgeeknerd/mod-amb-des-log-par-pro-dar-fun) &#128679;
+* [ ] [Input de Dados.](https://github.com/Devsgeeknerd/mod-inp-dad-log-par-pro-dar-fun) &#128679;
 
 > [!NOTE]\
 > A descrição abaixo foi feito por mim para pesquisar e estudar mais afundo alguns tópicos.
