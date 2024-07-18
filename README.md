@@ -18,6 +18,7 @@
 * [ ] [Exercícios 5.](https://github.com/Devsgeeknerd/mod-exe-5-log-par-pro-dar-fun) &#128679;
 * [ ] [TCC 3.](https://github.com/Devsgeeknerd/mod-tcc-3-log-par-pro-dar-fun) &#128679;
 * [ ] [Estruturas Condicionais.](https://github.com/Devsgeeknerd/mod-est-con-log-par-pro-dar-fun) &#128679;
+* [ ] [Exercícios 6.](https://github.com/Devsgeeknerd/mod-exe-6-log-par-pro-dar-fun) #128679;
 
 > [!NOTE]\
 > A descrição abaixo foi feito por mim para pesquisar e estudar mais afundo alguns tópicos.
