@@ -32,6 +32,7 @@
 * [ ] [Estrutura de Repetição — For.](https://github.com/Devsgeeknerd/mod-est-rep-for-log-par-pro-dar-fun) &#128679;
 * [ ] [Exercícios 10.](https://github.com/Devsgeeknerd/mod-exe-10-log-par-pro-dar-fun) &#128679;
 * [ ] [TCC 8.](https:github.com/Devsgeeknerd/mod-tcc-8-log-par-pro-dar-fun) &#128679;
+* [ ] [Estrutura de Repetição — While.](https://github.com/Devsgeeknerd/mod-est-rep-whi-log-par-pro-dar-fun) &#128679;
 
 > [!NOTE]\
 > A descrição abaixo foi feito por mim para pesquisar e estudar mais afundo alguns tópicos.
