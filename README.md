@@ -38,6 +38,7 @@
 * [ ] [Exercícios 11.](https://github.com/Devsgeeknerd/mod-exe-11-log-par-pro-dar-fun) &#128679;
 * [ ] [TCC 10.](https://github.com/Devsgeeknerd/mod-tcc-10-log-par-pro-dar-fun) &#128679;
 * [ ] [Vetor.](https://github.com/Devsgeeknerd/mod-vet-log-par-pro-dar-fun) &#128679;
+* [ ] [Exercícios 12.](https://github.com/Devsgeeknerd/mod-exe-12-log-par-pro-dar-fun) &#128679;
 
 > [!NOTE]\
 > A descrição abaixo foi feito por mim para pesquisar e estudar mais afundo alguns tópicos.
