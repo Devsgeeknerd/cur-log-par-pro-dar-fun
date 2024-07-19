@@ -22,6 +22,7 @@
 * [ ] [TCC 4.](https://github.com/Devsgeeknerd/mod-tcc-4-log-par-pro-dar-fun) #128679;
 * [ ] [Estrutura Condicionais Múltiplas.](https://github.com/Devsgeeknerd/mod-est-con-mul-log-par-pro-dar-fun) #128679;
 * [ ] [Exercícios 7.](https://github.com/Devsgeeknerd/mod-exe-7-log-par-pro-dar-fun) #128679;
+* [ ] [TCC 5.](https://github.com/Devsgeeknerd/mod-tcc-5-log-par-pro-dar-fun) #128679;
 
 > [!NOTE]\
 > A descrição abaixo foi feito por mim para pesquisar e estudar mais afundo alguns tópicos.
