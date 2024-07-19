@@ -27,6 +27,7 @@
 * [ ] [Exercícios 8.](https://github.com/Devsgeeknerd/mod-exe-log-par-pro-dar-fun) &#128679;
 * [ ] [TCC 6.](https://github.com/Devsgeeknerd/mod-tcc-6-log-par-pro-dar-fun) &#128679;
 * [ ] [Escolha Caso — Switch Case.](https://github.com/Devsgeeknerd/mod-esc-cas-swi-cas-log-par-pro-dar-fun) &#128679;
+* [ ] [Exercícios 9.](https://github.com/Devsgeeknerd/mod-exe-9-log-par-pro-dar-fun) &#128679;
 
 > [!NOTE]\
 > A descrição abaixo foi feito por mim para pesquisar e estudar mais afundo alguns tópicos.
