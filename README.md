@@ -30,6 +30,7 @@
 * [ ] [Exercícios 9.](https://github.com/Devsgeeknerd/mod-exe-9-log-par-pro-dar-fun) &#128679;
 * [ ] [TCC 7.](https://github.com/Devsgeeknerd/mod-tcc-7-log-par-pro-dar-fun) &#128679;
 * [ ] [Estrutura de Repetição — For.](https://github.com/Devsgeeknerd/mod-est-rep-for-log-par-pro-dar-fun) &#128679;
+* [ ] [Exercícios 10.](https://github.com/Devsgeeknerd/mod-exe-10-log-par-pro-dar-fun) &#128679;
 
 > [!NOTE]\
 > A descrição abaixo foi feito por mim para pesquisar e estudar mais afundo alguns tópicos.
