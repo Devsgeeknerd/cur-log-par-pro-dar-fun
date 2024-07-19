@@ -43,6 +43,7 @@
 * [ ] [Matriz.](https://github.com/Devsgeeknerd/mod-mat-log-par-pro-dar-fun) &#128679;
 * [ ] [Funções.](https://github.com/Devsgeeknerd/mod-fun-log-par-pro-dar-fun) &#128679;
 * [ ] [Exercícios 13.](https://github.com/Devsgeeknerd/mod-exe-13-log-par-pro-dar-fun) &#128679;
+* [ ] [TCC 12.](https://github.com/Devsgeeknerd/mod-tcc-12-log-par-pro-dar-fun) &#128679;
 
 > [!NOTE]\
 > A descrição abaixo foi feito por mim para pesquisar e estudar mais afundo alguns tópicos.
