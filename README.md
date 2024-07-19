@@ -35,6 +35,7 @@
 * [ ] [Estrutura de Repetição — While.](https://github.com/Devsgeeknerd/mod-est-rep-whi-log-par-pro-dar-fun) &#128679;
 * [ ] [TCC 9.](https://github.com/Devsgeeknerd/mod-tcc-9-log-par-pro-dar-fun) &#128679;
 * [ ] [Estrutura de Repetição — Do While.](https://github.com/Devsgeeknerd/mod-est-rep-do-whi-log-par-pro-dar-fun) &#128679;
+* [ ] [Exercícios 11.](https://github.com/Devsgeeknerd/mod-exe-11-log-par-pro-dar-fun) &#128679;
 
 > [!NOTE]\
 > A descrição abaixo foi feito por mim para pesquisar e estudar mais afundo alguns tópicos.
