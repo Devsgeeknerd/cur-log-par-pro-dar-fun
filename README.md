@@ -1,8 +1,31 @@
 <!-- Título -->
 # Lógica Para Programação em Dart
 
+**Objetivo do curso:**
+
+Este curso foi criado para **desenvolver seu raciocínio lógico** e ensinar você a **construir algoritmos** e **programas** usando a **linguagem Dart**.
+
+**Para quem é este curso?**
+
+**Iniciantes em programação** que querem aprender do zero.
+**Programadores de outras linguagens** que desejam expandir seus conhecimentos.
+
+**O que você vai aprender?**
+
+:white_check_mark: **Fundamentos da programação** (variáveis, operadores, estruturas de controle).
+:white_check_mark: **Como escrever código em Dart** de forma eficiente.
+:white_check_mark: **Boas práticas** para criar programas organizados e fáceis de manter.
+:white_check_mark: **Como resolver problemas computacionais** com lógica e organização.
+
+**Por que aprender Dart?**
+
+Dart é uma linguagem **moderna** e **poderosa**, usada principalmente no **desenvolvimento de apps móveis e web** com o **Flutter**.
+
+Ela é fácil de aprender e tem uma sintaxe limpa, ideal para quem está começando.
+
 ***Conteúdo do Curso:***
 
+* [OnBoard.](https://github.com/Devsgeeknerd/mod-onb-log-par-pro-dar-fun) &#128679;
 * [ ] [Fundamentos.](https://github.com/Devsgeeknerd/mod-fun-log-par-pro-dar-fun) &#128679;
 * [ ] [Exercícios 1.](https://github.com/Devsgeeknerd/mod-exe-1-log-par-pro-dar-fun) &#128679;
 * [ ] [Comandos.](https://github.com/Devsgeeknerd/mod-com-log-par-pro-dar-fun) &#128679;
@@ -50,80 +73,93 @@
 > [!NOTE]\
 > A descrição abaixo foi feito por mim para pesquisar e estudar mais afundo alguns tópicos.
 
-O curso "Lógica de Programação em Dart" é projetado para programadores iniciantes, intermediários e avançados que desejam aprender e/ou reforçar a lógica de programação usando a linguagem Dart.
+## Objetivos de Aprendizado
 
-Dart é uma linguagem de programação moderna e eficiente desenvolvida pelo Google, amplamente utilizada para desenvolver aplicativos móveis, desktop, web e servidor.
+* **Conceitos Básicos de Programação**
+  * Entender **o que é lógica de programação** e por que ela é importante.
+  * Aprender a **sintaxe básica do Dart** e suas principais características.
 
-Este curso abrange os fundamentos da lógica de programação e ensina como aplicá-los utilizando Dart, proporcionando uma base sólida para o desenvolvimento de software.
+* **Desenvolvimento de Algoritmos**
+  * Criar **algoritmos simples** e **avançados**.
+  * Transformar algoritmos em **código Dart funcional**.
 
-## Objetivo de Aprendizagem
+* **Estruturas de Controle**
+  * Usar **condicionais** (`if`, `else`, `switch`) para tomar decisões no código.
+  * Aplicar **laços de repetição** (`for`, `while`, `do-while`) para evitar código repetitivo.
 
-* **Compreender os Conceitos Básicos de Programação:**
-  * Entender a importância da lógica de programação;
-  * Aprender a sintaxe e as características principais de Dart.
+* **Manipulação de Dados**
+  * Trabalhar com **variáveis** e **tipos de dados** (numéricos, texto, booleanos).
+  * Usar **listas, mapas** e **sets** para armazenar e organizar informações.
 
-* **Desenvolver Algoritmos:**
-  * Criar algoritmos simples e complexos;
-  * Traduzir algoritmos em código Dart.
+* **Funções e Modularização**
+  * Criar **funções** para organizar e reutilizar código.
+  * Entender como **funções anônimas** (lambdas) funcionam.
 
-* **Estrutura de Controle:**
-  * Implementar estruturas de controle como condicionais e loops;
-  * Utilizar estruturas de decisão (`if`, `else`, `switch`);
-  * Utilizar estruturas de repetição (`for`, `while`, `do-while`).
+* **Interações com o Usuário**
+  * Ler dados digitados pelo usuário.
+  * Processar e exibir resultados.
 
-* **Manipulação de Dados:**
-  * Trabalhar com variáveis, tipos de dados e operadores;
-  * Utilizar arrays e coleções para armazenar e manipular dados.
+* **Debugging e Testes**
+  * Identificar e corrigir **erros no código**.
+  * Escrever **testes unitários** para garantir que o código funcione corretamente.
 
-* **Funções e Modularização:**
-  * Definir e utilizar funções;
-  * Entender a importância da modularização e reutilização de código.
-
-* **Entrada e Saída de Dados:**
-  * Manipular entrada e saída de dados;
-  * Utilizar Dart para interagir com o usuário e processar dados de entrada.
-
-* **Debugging e Testes:**
-  * Identificar e corrigir erros em programas Dart;
-  * Escrever e executar testes para garantir e funcionalidade do código.
+* **Projetos Práticos**
+  * Desenvolver **pequenos projetos** para fixar o aprendizado.
+  * Resolver **problemas reais** com Dart.
 
 ## Conteúdo Programático
 
-* **Introdução à Programação e Dart:**
-  * Visão geral da lógica de programação;
-  * Introdução à linguagem Dart e seu ambiente de desenvolvimento.
+* **Introdução à Programação e Dart**
+  * O que é lógica de programação?
+  * Conhecendo a linguagem Dart e seu ambiente de desenvolvimento.
 
-* **Variáveis e Tipos de Dados:**
-  * Declaração e uso de variáveis;
-  * Tipos de dados primitivos e compostos;
-  * Operadores aritméticos, lógicos e relacionais.
+* **Variáveis e Tipos de Dados**
+  * Como declarar e usar variáveis.
+  * Tipos de dados:
+    * `int`,
+    * `double`,
+    * `String`,
+    * `bool`,
+    * `List`,
+    * `Map`,
+    * `Set`.
+  * Operadores:
+    * aritméticos (`+`, `-`, `*`, `/`),
+    * lógicos (`&&`, `||`, `!`),
+    * relacionais (`==`, `>`, `<`).
 
-* **Estruturas de Controle:**
-  * Condicionais (`if`, `else`, `switch`);
-  * Loops (`for`, `while`, `do-while`);
-  * Exemplos práticos de uso dessas estruturas.
+* **Estruturas de Controle**
+  * **Condicionais**:
+    * `if`,
+    * `else`,
+    * `switch-case`.
+  * **Loops**:
+    * `for`,
+    * `while`,
+    * `do-while`.
+  * Exemplos práticos de como e quando usar cada estrutura.
 
-* **Coleções e Manipulação de Dados:**
-  * Arrays e listas;
-  * Mapas e sets;
-  * Métodos de manipulação de coleções.
+* **Coleções e Manipulação de Dados**
+  * Trabalhando com **listas (`List`) e arrays**.
+  * Usando **mapas (`Map`) e conjuntos (`Set`)**.
+  * Métodos úteis para manipular coleções.
 
-* **Funções:**
-  * Definição e chamada de funções;
-  * Funções com parâmetros e retorno;
-  * Recurso e funções anônimas (lambdas).
+* **Funções**
+  * Como **declarar e chamar funções**.
+  * Funções com **parâmetros e retorno de valores**.
+  * **Funções anônimas (lambdas)** e onde usá-las.
 
-* **Entrada e Saída de Dados:**
-  * Leitura de dados do usuário;
-  * Processamento e exibição de dados.
+* **Entrada e Saída de Dados**
+  * Como **ler dados do usuário**.
+  * Processar e **exibir informações na tela**.
 
-* **Debugging e Testes:**
-  * Técnicas de debugging;
-  * Escrevendo testes unitários com Dart.
+* **Debugging e Testes**
+  * Técnicas para **encontrar e corrigir erros**.
+  * Introdução a **testes unitários em Dart**.
 
-* **Projetos Práticos:**
-  * Desenvolvimento de pequenos projetos para aplicar os conceitos aprendidos;
-  * Estudos de caso e exemplos do mundo real.
+* **Projetos Práticos**
+  * Desenvolvimento de **pequenos programas** para aplicar o conhecimento.
+  * Exercícios baseados em **situações reais**.
 
 <!-- Informações -->
 ## &#8505; Informações
