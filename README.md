@@ -13,8 +13,11 @@ Este curso foi criado para **desenvolver seu raciocínio lógico** e ensinar voc
 **O que você vai aprender?**
 
 :white_check_mark: **Fundamentos da programação** (variáveis, operadores, estruturas de controle).
+
 :white_check_mark: **Como escrever código em Dart** de forma eficiente.
+
 :white_check_mark: **Boas práticas** para criar programas organizados e fáceis de manter.
+
 :white_check_mark: **Como resolver problemas computacionais** com lógica e organização.
 
 **Por que aprender Dart?**
