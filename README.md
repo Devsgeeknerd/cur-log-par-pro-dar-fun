@@ -28,7 +28,7 @@ Ela é fácil de aprender e tem uma sintaxe limpa, ideal para quem está começa
 
 ***Conteúdo do Curso:***
 
-* [OnBoard.](https://github.com/Devsgeeknerd/mod-onb-log-par-pro-dar-fun) &#128679;
+* [ ] [OnBoard.](https://github.com/Devsgeeknerd/mod-onb-log-par-pro-dar-fun) &#128679;
 * [ ] [Fundamentos.](https://github.com/Devsgeeknerd/mod-fun-log-par-pro-dar-fun) &#128679;
 * [ ] [Exercícios 1.](https://github.com/Devsgeeknerd/mod-exe-1-log-par-pro-dar-fun) &#128679;
 * [ ] [Comandos.](https://github.com/Devsgeeknerd/mod-com-log-par-pro-dar-fun) &#128679;
